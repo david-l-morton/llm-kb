@@ -33,7 +33,7 @@ Requirements:
 - Optional: [Obsidian](https://obsidian.md) to browse the vault
 
 ```bash
-git clone git@github.com:ebarti/llm-kb.git ~/Github/llm-kb
+git clone git@github.com:david-l-morton/llm-kb.git ~/Github/llm-kb
 cd ~/Github/llm-kb
 uv sync
 
